@@ -235,4 +235,4 @@ This repository serves as the official landing page for proXPN. The software is 
 **Get the most recent version of proXPN today!**
 
 ---
-**Last updated:** 2026-09-17 10:56:16 UTC
+**Last updated:** 2026-09-17 15:26:48 UTC
